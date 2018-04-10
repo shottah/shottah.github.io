@@ -1,1 +1,10 @@
+# Website Information
+title: Shottah's Web
+author: Matthew Abraham
+email: wasteofintel@gmail.com
+description: A website to fuck about with git technology.
+github_username: shottah
+
+# Build Settings
+markdown: kramdown
 theme: jekyll-theme-cayman
